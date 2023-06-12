@@ -3,6 +3,7 @@
 -- Copyright 2022-2023 by Amirreza Jaberi (https://github.com/AmirrezaJaberi)
 -- Licensed under the GNU Affero General Public License v3.0
 -- 
+local isBypassEnabled = false
 
 local SPAWN    = false
 local TRACK    = 0
